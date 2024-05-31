@@ -10,7 +10,7 @@ const App = () => {
         justifyContent: 'center',
         alignItems: 'center',
       }}>
-      <Text>App</Text>
+      <Text>App_Forked</Text>
     </View>
   );
 };
