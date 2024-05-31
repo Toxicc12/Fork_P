@@ -6,7 +6,7 @@ const App = () => {
     <View
       style={{
         flex: 1,
-        backgroundColor: 'red',
+        backgroundColor: 'pink',
         justifyContent: 'center',
         alignItems: 'center',
       }}>
